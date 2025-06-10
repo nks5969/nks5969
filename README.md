@@ -38,7 +38,7 @@
 
 ### 🌐 social media
 [![Youtube](https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube)](https://twitter.com/nks5969)
-[![Facebook](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=facebook)](https://facebook.com/hgha5969)
+[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=facebook)](https://facebook.com/hgha5969)
 [![Twitter](https://img.shields.io/badge/-x-black?style=for-the-badge&logo=twitter)](https://twitter.com/nks5969)
 
 ---
